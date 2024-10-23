@@ -19,5 +19,5 @@ curl -L https://github.com/humbertodias/game-zelda-slick2d/releases/download/v0.
 ## Control
 ![Preview](doc/control.png)
 
-
+run in netbean: import lib javazoom
 ### How to build it locally read it [BUILD.md](BUILD.md)
